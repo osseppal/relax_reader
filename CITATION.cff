@@ -1,0 +1,10 @@
+cff-version: 1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Seppälä
+    given-names: Oskari
+    orcid: 
+title: "Relax reader"
+version: 9
+doi: 
+date-released: 2022-08-23
